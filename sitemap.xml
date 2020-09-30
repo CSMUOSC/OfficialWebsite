@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://127.0.0.1:1313/</loc>
+    <loc>https://csmuosc.github.io/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:1313/services/</loc>
+    <loc>https://csmuosc.github.io/services/</loc>
   </url>
   
 </urlset>
